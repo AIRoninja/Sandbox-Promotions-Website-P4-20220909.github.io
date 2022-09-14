@@ -1,7 +1,12 @@
-# Sandbox-Promotions-Website-P4-20220909.github.io
+# Promotions Website
 Websites Project
 
-## Reminders
+# Reminders
+- None yet
 
-### To Do List
+
+# To Do List
+- Create a To Do List
+- Add more items from the paper
+
 
